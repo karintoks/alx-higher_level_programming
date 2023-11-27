@@ -1,3 +1,2 @@
-export PYFILE="your_python_script.py"
-./run_python_script.sh
-
+#!/but n/bash
+python3 ./$PYFILE
